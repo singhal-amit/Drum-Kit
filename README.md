@@ -8,7 +8,7 @@ The Drum Kit is a basic web application that allows users to play different drum
 
 ## How to Play ?
 
-To use the Drum Kit, simply checkout the deployed website [here](https://amit712singhal.github.io/Drum-Kit/).
+To use the Drum Kit, simply checkout the deployed website [here](https://singhal-amit.github.io/Drum-Kit/).
 
 - Click on the buttons labeled with the corresponding keys to play drum sounds.
 - Alternatively, press the corresponding keys on your keyboard to trigger the drum sounds.
